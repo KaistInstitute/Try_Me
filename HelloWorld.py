@@ -15,4 +15,5 @@ print "Moonyoung was here on 	02.07.2018"
 
 #ADD HERE: print out name and date
 print "Lee was here on 			02.08.2018"
+print "Mark was here on			02.08.2018"
 #print "[] was here on []"
