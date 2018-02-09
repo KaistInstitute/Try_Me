@@ -4,10 +4,11 @@ First time using Git? Start Here!
 1) Clone this repository to your local computer
 2) Run the HelloWorld.py python code
 3) Modify the HelloWorld.py code to include your name, date
-4) Push the local changes to Git server
+4) Push the local changes to Git server  
 
+-----------------------------------------------------------  
 
-#Commands to use:
+Commands to use:
 
 [[Linux]]  
 Pull (copy) repository from Git server  
@@ -27,6 +28,6 @@ Push (save) changes to Git server
 
 
 
-[[Windows]]
+[[Windows]]  
 To be updated  
 
